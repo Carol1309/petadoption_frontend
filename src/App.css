@@ -18,8 +18,8 @@ gap: 20px;
   margin: 0px;
   background-image:url("https://dm6g3jbka53hp.cloudfront.net/static-images/adopt-me-pet-02032021.jpg");
 background-repeat: no-repeat;
-min-width: 50%;
-min-height: 50vh;
+min-width: 100%;
+min-height: 100vh;
 background-size: cover;
 
 
@@ -29,8 +29,8 @@ background-size: cover;
   margin: 0px;
   background-image:url("https://img.freepik.com/free-vector/adopt-pet-concept_23-2148523582.jpg");
 background-repeat: no-repeat;
-min-width: 80%;
-min-height: 50vh;
+min-width: 100%;
+min-height: 100vh;
 background-size: cover;
 
 
